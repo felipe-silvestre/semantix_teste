@@ -2,8 +2,14 @@ TESTE SEMANTIX - desafio técnico passado pela Grazzieli.
 
 Realizado em bash (linux) e python3.
 
+o codito.txt esta com os dois scripts bahs, para download e ingestao dos dados e python para trasnformação e analise para respostas.
+
+o arquivo codigo_limpo.py consta apenas com a parte de transformação e analise para respostas.
+
+em PDF as respostas descritivas sobre conhecimento técnico.
+
 
 Fontes de pesquisa:
 https://spark.apache.org/docs/latest/
 https://spark.apache.org/docs/latest/api/python/index.html
-https://www.tutorialspoint.com/pg/hadoop/hadoop_command_reference.htm
+https://www.tutorialspoint.com/pg/hadoop/hadoop_command_reference.html
